@@ -1,0 +1,86 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+/* navbar */
+.navbar-nav{
+   padding-left: 40px;
+   padding-right: 40px;
+
+}
+.nav-link{
+    color: white;
+}
+.nav-item{
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.navbar ul li a:hover{
+    color:#FEC722 ;
+    outline-style: solid;
+    outline-color:#FEC722 ;
+}
+.valua{
+    margin-left: 120px;
+}
+.btna{
+    background-color:#FEC722 ;
+    color: black;
+}
+.imgc{
+  opacity: .4;
+  margin: 0% 0%;
+  padding: 0% 0%;
+  border: none;
+  outline: none;
+}
+
+
+.list div ul li a{
+  color: white;
+    text-decoration: none;
+    text-transform: ;
+    text-shadow: ;
+}
+.list div ul li{
+    list-style-type: none;
+}
+.list div ul li a:hover{
+    color: #FEC722;
+
+}
+
+.eduicon{
+   
+    color: #FEC722 ;
+}
+.logotop{
+    margin-bottom: 300px;
+}
+.btng1:hover{
+    text-decoration: none;
+    color: #FEC722 ;
+
+}
+
+.btng2:hover{
+    text-decoration: none;
+    color: #FEC722 ;
+
+}
+.btng3 a:hover{
+    
+    background-color: #FEC722;
+
+}
+.btng4{
+    color: black;
+}
+.btng4:hover{
+    text-decoration: none;
+    color: #FEC722 ;
+
+}
+
